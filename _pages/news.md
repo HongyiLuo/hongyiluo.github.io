@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "News"
+permalink: /news/
+author_profile: true
+---
+
 News
 ======
 - *February 2023*: Our paper, “Location-Invariant Radio Frequency Fingerprint for Base Station Recognition” has been submitted to IEEE Wireless Communications Letters.
