@@ -5,8 +5,6 @@ permalink: /news/
 author_profile: true
 ---
 
-News
-======
 - *February 2023*: Our paper, “Location-Invariant Radio Frequency Fingerprint for Base Station Recognition” has been submitted to IEEE Wireless Communications Letters.
 - *March 2023*: Our paper, “Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications” has been accepted by IEEE Wireless Communications Magazine.
 - *January 2023*: Our paper, “RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios” has been accepted by IEEE ICC’23.
