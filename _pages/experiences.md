@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Experiences"
+title: "Research Experience"
 permalink: /experiences/
 author_profile: true
 ---
-
-Research Experience  
-====  
 
 RF Fingerprinting Based on Multi-Antenna for Mitigating Multipath Channel Interference  
 ----  
