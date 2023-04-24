@@ -36,28 +36,23 @@ RIS-Based Active Attack and Its Countermeasures in PKG
 
 Project Experience
 =====
-Lightweight Air Interface Security Transmission Theory and Methods for Massive Users  
+2022 - Present) Lightweight Air Interface Security Transmission Theory and Methods for Massive Users *(Nanjing, China)*  
 ----
-*2022 - Present*  
-
-*Nanjing, China*  
 
 *Responsible for RF Fingerprinting algorithm design (Work in progress)*
 1. Design a lightweight physical layer authentication algorithm utilizing frequency offset with relative RF fingerprinting;
 2. Implement a physical layer access authentication simulation experimental platform in 5G NR system.
 
-Joint Research of IoT Security System and Key Technologies Based on Quantum Keys  
+Mar. 2022 - Oct. 2022) Joint Research of IoT Security System and Key Technologies Based on Quantum Keys *(Nanjing, China)*    
 ----
-*Mar. 2022 - Oct. 2022 Nanjing, China*  
 
 *Responsible for physical layer key generation algorithm design*
 1. Design the physical layer key generation algorithm for the quantum key distribution process;
 2. Design the physical layer key generation algorithm for the quantum key distribution process.
 
 
-Subsidence Monitoring of Wuhan Metro  
+July 2018 - Jan. 2019) Subsidence Monitoring of Wuhan Metro *(Wuhan, China)* 
 ----
-*July 2018 - Jan. 2019 Wuhan, China*  
 
 *Responsible for embedded development*
 1. Development of microcontrollers employing the STM32 as embedded hardware;
