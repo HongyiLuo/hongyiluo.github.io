@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Research Experience
-------
+====
 ### RF Fingerprinting Based on Multi-Antenna for Mitigating Multipath Channel Interference
 **Research Description**: Implementation of RF fingerprinting algorithms for multipath resistant channels using the endogenous physical layer security features in 5G systems, and construction of a 5G NR RFF identification system simulation platform and an experimental platform.  
 
@@ -32,7 +32,7 @@ Research Experience
 2. A MUSIC-based path detection and path separation algorithm is proposed to resist attacks and improve the rate of key generation.
 
 Project Experience
-------
+=====
 ### Lightweight Air Interface Security Transmission Theory and Methods for Massive Users
 *2022 - Present Nanjing, China*  
 
