@@ -5,7 +5,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-RF Fingerprinting Based on Multi-Antenna for Mitigating Multipath Channel Interference  
+Mar. 2022 - Nov. 2022) RF Fingerprinting Based on Multi-Antenna for Mitigating Multipath Channel Interference  
 ----  
 
 **Research Description**: Implementation of RF fingerprinting algorithms for multipath resistant channels using the endogenous physical layer security features in 5G systems, and construction of a 5G NR RFF identification system simulation platform and an experimental platform.  
@@ -17,7 +17,7 @@ RF Fingerprinting Based on Multi-Antenna for Mitigating Multipath Channel Interf
 4. Establishing a 5G experimental platform using a USRP B210 with N321, and utilizing gnuradio to acquire, process, and analyze experimental data.
 
 
-Biometric Fingerprints Protection \& Forced Authentication Detection  
+Sept. 2021 - Dec. 2021) Biometric Fingerprints Protection \& Forced Authentication Detection  
 ----  
 
 **Research Description**: Training ResNet to detect forced fingerprint pressing attacks and building a hardware platform and integrating algorithms in embedded devices  
@@ -26,7 +26,7 @@ Biometric Fingerprints Protection \& Forced Authentication Detection
 2. Pre-processing fingerprint images and training ResNet to recognize normal and attacked fingerprints;
 3. Build a hardware realization platform for forced fingerprint detection based on STM32.  
 
-RIS-Based Active Attack and Its Countermeasures in PKG  
+Jan. 2021 - July 2021) RIS-Based Active Attack and Its Countermeasures in PKG  
 ----  
 
 **Research Description**: Research into how legitimate user key generation is affected in a scenario where the attacker has RIS and how legitimate users can defend against it.  
