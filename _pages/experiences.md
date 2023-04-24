@@ -5,10 +5,12 @@ permalink: /experiences/
 author_profile: true
 ---
 
-Research Experience
-====
-RF Fingerprinting Based on Multi-Antenna for Mitigating Multipath Channel Interference
-----
+Research Experience  
+====  
+
+RF Fingerprinting Based on Multi-Antenna for Mitigating Multipath Channel Interference  
+----  
+
 **Research Description**: Implementation of RF fingerprinting algorithms for multipath resistant channels using the endogenous physical layer security features in 5G systems, and construction of a 5G NR RFF identification system simulation platform and an experimental platform.  
 
 **Main Works**:
@@ -19,24 +21,27 @@ RF Fingerprinting Based on Multi-Antenna for Mitigating Multipath Channel Interf
 
 
 Biometric Fingerprints Protection \& Forced Authentication Detection  
-----
+----  
+
 **Research Description**: Training ResNet to detect forced fingerprint pressing attacks and building a hardware platform and integrating algorithms in embedded devices  
 **Main Works**:
 1. Studying several features of forced fingerprints, such as the direction of applied force, the centroid of applied force, etc;
 2. Pre-processing fingerprint images and training ResNet to recognize normal and attacked fingerprints;
 3. Build a hardware realization platform for forced fingerprint detection based on STM32.  
 
-RIS-Based Active Attack and Its Countermeasures in PKG
-----
+RIS-Based Active Attack and Its Countermeasures in PKG  
+----  
+
 **Research Description**: Research into how legitimate user key generation is affected in a scenario where the attacker has RIS and how legitimate users can defend against it.  
 
 **Main Works**:
 1. Propose a new RIS-based manipulating attack that changes the phase of RIS randomly to destroy the key generation process.
 2. A MUSIC-based path detection and path separation algorithm is proposed to resist attacks and improve the rate of key generation.
 
-Project Experience
-=====
-2022 - Present) Lightweight Air Interface Security Transmission Theory and Methods for Massive Users *(Nanjing, China)*  
+Project Experience  
+=====  
+
+Oct. 2022 - Present) Lightweight Air Interface Security Transmission Theory and Methods for Massive Users *(Nanjing, China)*  
 ----
 
 *Responsible for RF Fingerprinting algorithm design (Work in progress)*
