@@ -32,7 +32,7 @@ RIS-Based Active Attack and Its Countermeasures in PKG
 **Research Description**: Research into how legitimate user key generation is affected in a scenario where the attacker has RIS and how legitimate users can defend against it.  
 
 **Main Works**:
-1. Propose a new RIS-based manipulating attack that changes the phase of RIS randomly to destroy the key generation process.
+1. Propose a new RIS-based manipulating attack that changes the phase of RIS randomly to destroy the key generation process;
 2. A MUSIC-based path detection and path separation algorithm is proposed to resist attacks and improve the rate of key generation.
 
 Project Experience  
