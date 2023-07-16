@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. Y. Sun, G. Li\*, **H. Luo**, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", accepted by *IEEE Wireless Commun. lett.*, 2023. ([Link](https://ieeexplore.ieee.org/document/10146013))
-2. G. Li\*, **H. Luo**, J. Yu, A. Hu and J. Wang, "Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications", *IEEE Wireless Commun.*, pp. 1-7, 2023. ([Link](https://ieeexplore.ieee.org/document/10018333))
-3. **H. Luo**, G. Li\*, Y. Xing, J. Zhang and X. Wang, "RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios", in *Proc. IEEE Int. Conf. Commun. (ICC)*, pp. 1-5, May 2023. ([Link]())
+1. Y. Sun, G. Li\*, **H. Luo**, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", accepted by *IEEE Wireless Comm. lett.*, 2023. ([Link](https://ieeexplore.ieee.org/document/10146013))
+2. G. Li\*, **H. Luo**, J. Yu, A. Hu and J. Wang, "Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications", *IEEE Wireless Comm.*, pp. 1-7, 2023. ([Link](https://ieeexplore.ieee.org/document/10018333))
+3. **H. Luo**, G. Li\*, Y. Xing, J. Zhang and X. Wang, "RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios", in *Proc. IEEE Int. Conf. Comm. (ICC)*, pp. 1-5, May 2023. ([Link]())
 4. **H. Luo**, G. Li\*, L. Hu, "On the Security of RIS-assisted Manipulating Attack in MISO systems", in *Proc. IEEE VTC, Virtual Conference*, 27-30 September 2021, pp. 1-5. ([Link](https://ieeexplore.ieee.org/document/9625272))
 5. L. Hu, G. Li\*, **H. Luo**, and A. Hu, "On the RIS Manipulating Attack and Its Countermeasures in Physical-layer Key Generation", in *Proc. IEEE VTC, Virtual Conference*, 27-30 September 2021, pp. 1-5. ([Link](https://ieeexplore.ieee.org/document/9625442))
 6. **H. Luo**, J. Sa\*, R. Li and J. Li, "Regionalization Intelligent Garbage Sorting Machine for Municipal Solid Waste Treatment", 2019 6th International Conference on Systems and Informatics (ICSAI), Shanghai, China, pp. 103-108, 2019. ([Link](https://ieeexplore.ieee.org/document/9010575))
