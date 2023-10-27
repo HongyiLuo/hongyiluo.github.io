@@ -17,4 +17,6 @@ author_profile: true
 Other Publications
 ------
 1. G. Li, **H. Luo**, Y. Ma and A. Hu, A detection method for forced pressing of biometric fingerprints, CN Patent Application No.:202210170301.3 (accepted), Feb. 2022. (Chinese patent)
+2. G. Li, Y. Ma, **H. Luo**, Biometric fingerprint recognition method and product based on dual-task learning, CN Patent Application No.: 202211252701.5 (accepted), Oct. 2022. (Chinese patent)
+3. G. Li, H. Zhang, **H. Luo**, J. He, A radio frequency fingerprint-based air interface identification method in MIMO scenarios, CN Patent Application No.: 202311165415X (accepted), Sep. 2023. (Chinese patent)
 
