@@ -4,7 +4,8 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-
+- Happy Chinese New Year 🎉🎉🎉
+- *February 2024*: Our paper, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting” has been accepted by IEEE Internet of Things Journal.
 - *October 2023*: Our paper, “Forced Biometric Fingerprint Pressing Attack and Detection” has been submitted to IEEE IEEE Transactions on Information Forensics and Security.
 - *February 2023*: Our paper, “Location-Invariant Radio Frequency Fingerprint for Base Station Recognition” has been submitted to IEEE Wireless Communications Letters.
 - *March 2023*: Our paper, “Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications” has been accepted by IEEE Wireless Communications Magazine.
