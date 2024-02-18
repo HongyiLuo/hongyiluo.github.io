@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hongyi Luo is working toward the M.Sc. degree in the School of Cyber Science and Engineering, Southeast University, Nanjing, China, under the supervision of [Dr. Guyue Li](https://cyber.seu.edu.cn/_s303/lgy1/list.psp). His current research interests include physical layer security, radio frequency fingerprint identification, secret key generation, and reconfigurable intelligent surface.
+Hongyi Luo is working toward the M.Sc. degree in the School of Cyber Science and Engineering, Southeast University, Nanjing, China, under the supervision of [Dr. Guyue Li](https://guyuelee.github.io/blog.github.io/). His current research interests include physical layer security, radio frequency fingerprint identification, secret key generation, and reconfigurable intelligent surface.
 
 News
 ======
-- *Oct. 2023*: Our paper, “Forced Biometric Fingerprint Pressing Attack and Detection” has been submitted to IEEE IEEE Transactions on Information Forensics and Security.
+- *Feb. 2024*: Our paper, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting” has been accepted by IEEE Internet of Things Journal.
+- *Oct. 2023*: Our paper, “Forced Biometric Fingerprint Pressing Attack and Detection” has been submitted to IEEE Transactions on Information Forensics and Security.
 - *June 2023*: Our paper, “Location-Invariant Radio Frequency Fingerprint for Base Station Recognition” has been accepted by IEEE Wireless Communications Letters.
 - *Mar. 2023*: Our paper, “Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications” has been accepted by IEEE Wireless Communications Magazine.
 - *Jan. 2023*: Our paper, “RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios” has been accepted by IEEE ICC’23.
@@ -35,14 +36,15 @@ Honors and Awards
 
 Publications
 ======
-1. Y. Sun, G. Li\*, **H. Luo**, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", accepted by *IEEE Wireless Commun. lett.*, 2023. ([Link](https://ieeexplore.ieee.org/document/10146013))
-2. G. Li\*, **H. Luo**, J. Yu, A. Hu and J. Wang, "Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications", *IEEE Wireless Commun.*, pp. 1-7, 2023. ([Link](https://ieeexplore.ieee.org/document/10018333))
-3. **H. Luo**, G. Li\*, Y. Xing, J. Zhang and X. Wang, "RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios", in *Proc. IEEE Int. Conf. Commun. (ICC)*, pp. 1-5, May 2023. ([Link](https://ieeexplore.ieee.org/document/10279540))
-4. **H. Luo**, G. Li\*, L. Hu, "On the Security of RIS-assisted Manipulating Attack in MISO systems", in *Proc. IEEE VTC, Virtual Conference*, 27-30 September 2021, pp. 1-5. ([Link](https://ieeexplore.ieee.org/document/9625272))
-5. L. Hu, G. Li\*, **H. Luo**, and A. Hu, "On the RIS Manipulating Attack and Its Countermeasures in Physical-layer Key Generation", in *Proc. IEEE VTC, Virtual Conference*, 27-30 September 2021, pp. 1-5. ([Link](https://ieeexplore.ieee.org/document/9625442))
-6. **H. Luo**, J. Sa\*, R. Li and J. Li, "Regionalization Intelligent Garbage Sorting Machine for Municipal Solid Waste Treatment", 2019 6th International Conference on Systems and Informatics (ICSAI), Shanghai, China, pp. 103-108, 2019. ([Link](https://ieeexplore.ieee.org/document/9010575))
-7. J. Sa\*, **H. Luo**, J. Zhou and R. Wu, "A Leaves Classification Model Based on Principal Component Analysis and Support Vector Machine", *J. Wuhan Univ. Technol.*, vol. 41, no. 10, pp. 81-87, 2019. (in Chinese)
-8. Z. Wang, X. Wang, Z. Cai, X. Ji, **H. Luo** and Y. Guo, "A Low-Voltage Digital Controlled Oscillator Based on Multistage Capacitor Attenuation Technique", *Res. Prog. Solid State Electron.*, vol. 39, no. 5, pp. 344-349+385, 2019. (in Chinese)
+1. G. Li, Y. Ma, W. Wang, J. Zhang and **H. Luo**, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", accepted by *IEEE Internet Things J.*, 2024. ([Link](https://doi.org/10.1109/JIOT.2024.3365714))
+2. Y. Sun, G. Li\*, **H. Luo**, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", accepted by *IEEE Wireless Commun. lett.*, 2023. ([Link](https://ieeexplore.ieee.org/document/10146013))
+3. G. Li\*, **H. Luo**, J. Yu, A. Hu and J. Wang, "Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications", *IEEE Wireless Commun.*, pp. 1-7, 2023. ([Link](https://ieeexplore.ieee.org/document/10018333))
+4. **H. Luo**, G. Li\*, Y. Xing, J. Zhang and X. Wang, "RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios", in *Proc. IEEE Int. Conf. Commun. (ICC)*, pp. 1-5, May 2023. ([Link](https://ieeexplore.ieee.org/document/10279540))
+5. **H. Luo**, G. Li\*, L. Hu, "On the Security of RIS-assisted Manipulating Attack in MISO systems", in *Proc. IEEE VTC, Virtual Conference*, 27-30 September 2021, pp. 1-5. ([Link](https://ieeexplore.ieee.org/document/9625272))
+6. L. Hu, G. Li\*, **H. Luo**, and A. Hu, "On the RIS Manipulating Attack and Its Countermeasures in Physical-layer Key Generation", in *Proc. IEEE VTC, Virtual Conference*, 27-30 September 2021, pp. 1-5. ([Link](https://ieeexplore.ieee.org/document/9625442))
+7. **H. Luo**, J. Sa\*, R. Li and J. Li, "Regionalization Intelligent Garbage Sorting Machine for Municipal Solid Waste Treatment", 2019 6th International Conference on Systems and Informatics (ICSAI), Shanghai, China, pp. 103-108, 2019. ([Link](https://ieeexplore.ieee.org/document/9010575))
+8. J. Sa\*, **H. Luo**, J. Zhou and R. Wu, "A Leaves Classification Model Based on Principal Component Analysis and Support Vector Machine", *J. Wuhan Univ. Technol.*, vol. 41, no. 10, pp. 81-87, 2019. (in Chinese)
+9. Z. Wang, X. Wang, Z. Cai, X. Ji, **H. Luo** and Y. Guo, "A Low-Voltage Digital Controlled Oscillator Based on Multistage Capacitor Attenuation Technique", *Res. Prog. Solid State Electron.*, vol. 39, no. 5, pp. 344-349+385, 2019. (in Chinese)
 
 Other Publications
 ------
@@ -54,3 +56,5 @@ Professional Activities
 -----
 
 - IEEE Student Member.
+- Journal/Conference reviewer:
+    - IEEE Wireless Communications Letters
