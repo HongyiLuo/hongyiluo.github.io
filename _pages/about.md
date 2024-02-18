@@ -12,6 +12,7 @@ Hongyi Luo is working toward the M.Sc. degree in the School of Cyber Science and
 
 News
 ======
+- Happy Chinese New Year 🎉🎉🎉
 - *Feb. 2024*: Our paper, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting” has been accepted by IEEE Internet of Things Journal.
 - *Oct. 2023*: Our paper, “Forced Biometric Fingerprint Pressing Attack and Detection” has been submitted to IEEE Transactions on Information Forensics and Security.
 - *June 2023*: Our paper, “Location-Invariant Radio Frequency Fingerprint for Base Station Recognition” has been accepted by IEEE Wireless Communications Letters.
@@ -28,6 +29,7 @@ Educations
 
 Honors and Awards
 ------
+- *2022-2023* University-level Merit Graduate Student, Southeast University.
 - *2021-2022* University Scholarship, Southeast University.
 - *2021* Second Prize of the National Postgraduate Mathematical Modeling Competition, Southeast University.
 - *2021* University-level Merit Graduate Student, Wuhan University of Technology.
