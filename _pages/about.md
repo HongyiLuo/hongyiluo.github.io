@@ -12,6 +12,7 @@ Hongyi Luo is working toward the M.Sc. degree in the School of Cyber Science and
 
 News
 ======
+- Hongyi is awarded the 2023 Huawei Scholarship.
 - Happy Chinese New Year 🎉🎉🎉
 - *Feb. 2024*: Our paper, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting” has been accepted by IEEE Internet of Things Journal.
 - *Oct. 2023*: Our paper, “Forced Biometric Fingerprint Pressing Attack and Detection” has been submitted to IEEE Transactions on Information Forensics and Security.
