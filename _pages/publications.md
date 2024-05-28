@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. G. Li, Y. Ma, W. Wang, J. Zhang and **H. Luo**, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", accepted by *IEEE Internet Things J.*, 2024. ([Link](https://doi.org/10.1109/JIOT.2024.3365714))
+1. G. Li, Y. Ma, W. Wang, J. Zhang and **H. Luo**, "The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting", accepted by *IEEE Internet Things J.*, 2024. ([Link](https://doi.org/10.1109/JIOT.2024.3365714))
 2. Y. Sun, G. Li\*, **H. Luo**, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", accepted by *IEEE Wireless Commun. lett.*, 2023. ([Link](https://ieeexplore.ieee.org/document/10146013))
 3. G. Li\*, **H. Luo**, J. Yu, A. Hu and J. Wang, "Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications", *IEEE Wireless Commun.*, pp. 1-7, 2023. ([Link](https://ieeexplore.ieee.org/document/10018333))
 4. **H. Luo**, G. Li\*, Y. Xing, J. Zhang and X. Wang, "RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios", in *Proc. IEEE Int. Conf. Commun. (ICC)*, pp. 1-5, May 2023. ([Link](https://ieeexplore.ieee.org/document/10279540))
