@@ -25,12 +25,13 @@ News
 
 Educations
 ------
-- *Sept. 2021- June 2024(expected)*, Master, Electronic Information, School of Cyber science and engineering, Southeast University, Supervisor: [Associate Prof. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB (Physical-Layer Security LAB)](https://sunyl1123.github.io/6102laboratory.github.io/)).
+- *Sept. 2021- June 2024*, Master, Electronic Information, School of Cyber science and engineering, Southeast University, Supervisor: [Associate Prof. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB (Physical-Layer Security LAB)](https://sunyl1123.github.io/6102laboratory.github.io/)).
 - *Sept. 2017- June 2021*, Bachelor, Communication Engineering, School of Information Engineering, Wuhan University of Technology, Supervisor: [Associate Prof. Jiming Sa](http://wutinfo.whut.edu.cn/yjspy/dsjs/201807/t20180704_314376.shtml).
 
 Honors and Awards
 ------
-- *2023-2024* 2023 Huawei Scholarship, Southeast University.
+- *2023-2024* University Outstanding Graduate, Southeast University.
+- *2023-2024* Huawei Scholarship, Southeast University.
 - *2022-2023* University-level Merit Graduate Student, Southeast University.
 - *2021-2022* University Scholarship, Southeast University.
 - *2021* Second Prize of the National Postgraduate Mathematical Modeling Competition, Southeast University.
