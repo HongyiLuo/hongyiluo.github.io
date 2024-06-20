@@ -12,6 +12,7 @@ Hongyi Luo is working toward the M.Sc. degree in the School of Cyber Science and
 
 News
 ======
+- *June 2024*: Happy Graduation 🎓🎓🎓
 - *Apr. 2024*: Hongyi is awarded the 2023 Huawei Scholarship.
 - *Feb. 2024*: Happy Chinese New Year 🎉🎉🎉
 - *Feb. 2024*: Our paper, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting” has been accepted by IEEE Internet of Things Journal.
@@ -30,12 +31,12 @@ Educations
 
 Honors and Awards
 ------
-- *2023-2024* University Outstanding Graduate, Southeast University.
-- *2023-2024* Huawei Scholarship, Southeast University.
-- *2022-2023* University-level Merit Graduate Student, Southeast University.
+- *2024* Outstanding Master’s Graduate, Southeast University.
+- *2024* Huawei Scholarship, Southeast University.
+- *2022-2023* University Merit Graduate Student, Southeast University.
 - *2021-2022* University Scholarship, Southeast University.
 - *2021* Second Prize of the National Postgraduate Mathematical Modeling Competition, Southeast University.
-- *2021* University-level Merit Graduate Student, Wuhan University of Technology.
+- *2021* University Merit Graduate Student, Wuhan University of Technology.
 - *2018-2020* University Scholarship, Wuhan University of Technology.
 - *2017* National Scholarship, Wuhan University of Technology.
 
