@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hongyi Luo is a PhD student with [the Department of Electrical and Electronic Engineering (EEE)](https://www.eee.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/), under the supervision of [Prof. Daniel Ka Chun So](https://research.manchester.ac.uk/en/persons/d.so).
+Hongyi Luo (罗弘毅) is a PhD student with [the Department of Electrical and Electronic Engineering (EEE)](https://www.eee.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/), under the supervision of [Prof. Daniel Ka Chun So](https://research.manchester.ac.uk/en/persons/d.so).
 He received the Master’s degree in Electronic Information with [the School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2024 under the supervision of [Dr. Guyue Li](https://guyuelee.github.io/blog.github.io/).
 His current research interests include green communication, cell free massive MIMO, physical layer security, and reconfigurable intelligent surface.
 
