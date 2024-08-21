@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hongyi Luo is working toward the M.Sc. degree in the School of Cyber Science and Engineering, Southeast University, Nanjing, China, under the supervision of [Dr. Guyue Li](https://guyuelee.github.io/blog.github.io/). His current research interests include physical layer security, radio frequency fingerprint identification, secret key generation, and reconfigurable intelligent surface.
+Hongyi Luo is a PhD student with [the Department of Electrical and Electronic Engineering (EEE)](https://www.eee.manchester.ac.uk/), [The University of Manchester](https://www.manchester.ac.uk/), under the supervision of [Prof. Daniel Ka Chun So](https://research.manchester.ac.uk/en/persons/d.so).
+He received the Master’s degree in Electronic Information with [the School of Cyber Science and Engineering](https://cyber.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), Nanjing, China, in 2024 under the supervision of [Dr. Guyue Li](https://guyuelee.github.io/blog.github.io/).
+His current research interests include green communication, cell free massive MIMO, physical layer security, and reconfigurable intelligent surface.
 
 News
 ======
@@ -26,8 +27,10 @@ News
 
 Educations
 ------
-- *Sept. 2021- June 2024*, Master, Electronic Information, School of Cyber science and engineering, Southeast University, Supervisor: [Associate Prof. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB (Physical-Layer Security LAB)](https://sunyl1123.github.io/6102laboratory.github.io/)).
-- *Sept. 2017- June 2021*, Bachelor, Communication Engineering, School of Information Engineering, Wuhan University of Technology, Supervisor: [Associate Prof. Jiming Sa](http://wutinfo.whut.edu.cn/yjspy/dsjs/201807/t20180704_314376.shtml).
+Sep. 2023- June 2026 (expected), Ph.D., The Hong Kong Polytechnic University, Supervisor: Prof. Haibo Hu.
+- *Sept. 2024- June 2027 (expected)*, Ph.D., Electrical and Electronic Engineering, The University of Manchester, Supervisor: [Prof. Daniel Ka Chun So](https://research.manchester.ac.uk/en/persons/d.so).
+- *Sept. 2021- June 2024*, Master, Electronic Information, Southeast University, Supervisor: [Associate Prof. Guyue Li](https://www.researchgate.net/profile/Li-Guyue) ([PLS-LAB (Physical-Layer Security LAB)](https://sunyl1123.github.io/6102laboratory.github.io/)).
+- *Sept. 2017- June 2021*, Bachelor, Communication Engineering, Wuhan University of Technology, Supervisor: [Associate Prof. Jiming Sa](http://wutinfo.whut.edu.cn/yjspy/dsjs/201807/t20180704_314376.shtml).
 
 Honors and Awards
 ------
