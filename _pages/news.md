@@ -4,6 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
+- *June 2024*: Happy Graduation 🎓🎓🎓
 - *Apr. 2024*: Hongyi is awarded the 2023 Huawei Scholarship.
 - *Feb. 2024*: Happy Chinese New Year 🎉🎉🎉
 - *Feb. 2024*: Our paper, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting” has been accepted by IEEE Internet of Things Journal.
