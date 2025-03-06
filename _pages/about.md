@@ -60,9 +60,16 @@ Other Publications
 2. G. Li, Y. Ma, **H. Luo**, Biometric fingerprint recognition method and product based on dual-task learning, CN Patent Application No.: 202211252701.5 (accepted), Oct. 2022. (Chinese patent)
 3. G. Li, H. Zhang, **H. Luo**, J. He, A radio frequency fingerprint-based air interface identification method in MIMO scenarios, CN Patent Application No.: 202311165415X (accepted), Sep. 2023. (Chinese patent)
 
+Experiences
+-----
+
+- Teaching Assistant:
+    - 2024-2025 EEEN60162&40162 Wireless Communications & Mobile Networks
+
 Professional Activities
 -----
 
 - IEEE Student Member.
 - Journal/Conference reviewer:
     - IEEE Wireless Communications Letters
+    - IEEE Communications Letters
