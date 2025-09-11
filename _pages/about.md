@@ -84,9 +84,7 @@ Professional Activities
 
 Visitors
 ---
-<br>
-
-<div style="text-align: center;">
+<div style="text-align: left;">
   <div style="width: 400px; max-width: 100%; height: auto; display: inline-block;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MICcNcPoazNzt6zZFqdF_ZfCjP704OKlUPqVaM3dKWQ&cl=ffffff&w=a"></script>
   <div style="margin-top: 0.5rem; font-size: 0.8rem;">
@@ -98,31 +96,7 @@ Visitors
         document.getElementById('visitor-ip').textContent = data.ip;
       })
       .catch(error => {
-        document.getElementById('visitor-ip').textContent = '无法加载IP';
-      });
-  </script>
-</div>
-
----
-<br>
-
-<div style="text-align: center; overflow-x: auto;">
-  
-  <div style="width: 400px; max-width: 100%; height: auto; display: inline-block;">
-    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=GFcdEuG07FvW6ZuCg_fz5A1F9-CT3s3oLmCcAUW6zvg"></script>
-  </div>
-
-  <div style="margin-top: 0.5rem; font-size: 0.8rem;">
-    您的IP地址: <span id="visitor-ip">加载中...</span>
-  </div>
-  <script>
-    fetch('https://api.ipify.org?format=json')
-      .then(response => response.json())
-      .then(data => {
-        document.getElementById('visitor-ip').textContent = data.ip;
-      })
-      .catch(error => {
-        document.getElementById('visitor-ip').textContent = '无法加载IP';
+        document.getElementById('visitor-ip').textContent = 'can not load IP';
       });
   </script>
 </div>
