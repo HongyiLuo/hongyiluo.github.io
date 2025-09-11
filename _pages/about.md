@@ -15,7 +15,7 @@ News
 ======
 - *Aug. 2025*: Our paper, “An Energy-Efficient Sleep-Mode Strategy for Multi-RIS Aided Cell-Free Massive MIMO” has been accepted by IEEE GLOBECOM’25.
 - *July 2025*: PhD student -> PhD candidate. 
-<details><summary><b>For more news (click to expand)</b></summary>
+<details><summary><b>Show more</b></summary>
 <ul>
 <li><i>June 2024</i>: Happy Graduation 🎓🎓🎓</li>
 <li><i>Apr. 2024</i>: Hongyi is awarded the 2023 Huawei Scholarship.</li>
