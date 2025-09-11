@@ -22,3 +22,24 @@
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+<div style="text-align: center; margin-top: 2rem;">
+  
+  <a href="https://info.flagcounter.com/Y171"><img src="https://s11.flagcounter.com/count2/Y171/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+  
+  <br> <div style="margin-top: 1rem;">
+    您的IP地址: <span id="visitor-ip">加载中...</span>
+  </div>
+  <script>
+    fetch('https://api.ipify.org?format=json')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('visitor-ip').textContent = data.ip;
+      })
+      .catch(error => {
+        document.getElementById('visitor-ip').textContent = '无法加载IP';
+        console.error('获取IP时出错:', error);
+      });
+  </script>
+
+</div>
