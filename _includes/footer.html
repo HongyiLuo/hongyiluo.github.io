@@ -22,24 +22,3 @@
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>
-
-<div style="text-align: center; margin-top: 2rem; max-width: 100%; overflow-x: auto;">
-  
-  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=GFcdEuG07FvW6ZuCg_fz5A1F9-CT3s3oLmCcAUW6zvg"></script>
-  
-  <br> <div style="margin-top: 1rem;">
-    您的IP地址: <span id="visitor-ip">加载中...</span>
-  </div>
-  <script>
-    fetch('https://api.ipify.org?format=json')
-      .then(response => response.json())
-      .then(data => {
-        document.getElementById('visitor-ip').textContent = data.ip;
-      })
-      .catch(error => {
-        document.getElementById('visitor-ip').textContent = '无法加载IP';
-        console.error('获取IP时出错:', error);
-      });
-  </script>
-
-</div>
