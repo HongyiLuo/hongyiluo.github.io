@@ -102,3 +102,27 @@ Visitors
       });
   </script>
 </div>
+
+---
+<br>
+
+<div style="text-align: center; overflow-x: auto;">
+  
+  <div style="width: 400px; max-width: 100%; height: auto; display: inline-block;">
+    <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=GFcdEuG07FvW6ZuCg_fz5A1F9-CT3s3oLmCcAUW6zvg"></script>
+  </div>
+
+  <div style="margin-top: 0.5rem; font-size: 0.8rem;">
+    您的IP地址: <span id="visitor-ip">加载中...</span>
+  </div>
+  <script>
+    fetch('https://api.ipify.org?format=json')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('visitor-ip').textContent = data.ip;
+      })
+      .catch(error => {
+        document.getElementById('visitor-ip').textContent = '无法加载IP';
+      });
+  </script>
+</div>
