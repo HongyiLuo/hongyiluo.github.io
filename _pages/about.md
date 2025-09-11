@@ -87,6 +87,7 @@ Visitors
 <br>
 
 <div style="text-align: center;">
+  <div style="max-width: 100%; height: auto; display: inline-block;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=MICcNcPoazNzt6zZFqdF_ZfCjP704OKlUPqVaM3dKWQ&cl=ffffff&w=a"></script>
   <div style="margin-top: 0.5rem; font-size: 0.8rem;">
   </div>
