@@ -13,6 +13,7 @@ His current research interests include green communication, cell free massive MI
 
 News
 ======
+- *Sept. 2025*: Our paper, "Channel-Robust RF Fingerprint Identification for Multi-Antenna 5G User Equipment" has been accepted by IEEE Transactions on Information Forensics and Security.
 - *Aug. 2025*: Our paper, “An Energy-Efficient Sleep-Mode Strategy for Multi-RIS Aided Cell-Free Massive MIMO” has been accepted by IEEE GLOBECOM’25.
 - *July 2025*: PhD student -> PhD candidate. 
 <details><summary><b>Show more</b></summary>
@@ -21,7 +22,6 @@ News
 <li><i>Apr. 2024</i>: Hongyi is awarded the 2023 Huawei Scholarship.</li>
 <li><i>Feb. 2024</i>: Happy Chinese New Year 🎉🎉🎉</li>
 <li><i>Feb. 2024</i>: Our paper, “The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting” has been accepted by IEEE Internet of Things Journal.</li>
-<li><i>Oct. 2023</i>: Our paper, “Forced Biometric Fingerprint Pressing Attack and Detection” has been submitted to IEEE Transactions on Information Forensics and Security.</li>
 <li><i>June 2023</i>: Our paper, “Location-Invariant Radio Frequency Fingerprint for Base Station Recognition” has been accepted by IEEE Wireless Communications Letters.</li>
 <li><i>Mar. 2023</i>: Our paper, “Information-Theoretic Secure Key Sharing for Wide-Area Mobile Applications” has been accepted by IEEE Wireless Communications Magazine.</li>
 <li><i>Jan. 2023</i>: Our paper, “RelativeRFF: Multi-Antenna Device Identification in Multipath Propagation Scenarios” has been accepted by IEEE ICC’23.</li>
