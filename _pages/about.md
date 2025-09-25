@@ -50,7 +50,7 @@ Honors and Awards
 
 Publications
 ======
-1. **H. Luo**, G. li, A. Brighente, M. Conti, Y. Xing, A. Hu, X. Wang, "Channel-Robust RF Fingerprint Identification for Multi-Antenna 5G User Equipments", in *IEEE Transactions on Information Forensics and Security*, early access. ([Link](https://doi.org/10.1109/TIFS.2025.3611154))
+1. **H. Luo**, G. Li, A. Brighente, M. Conti, Y. Xing, A. Hu, X. Wang, "Channel-Robust RF Fingerprint Identification for Multi-Antenna 5G User Equipments", in *IEEE Transactions on Information Forensics and Security*, early access. ([Link](https://doi.org/10.1109/TIFS.2025.3611154))
 2. **H. Luo**, W. Song, D. K. C. So, "An Energy-Efficient Sleep-Mode Strategy for Multi-RIS Aided Cell-Free Massive MIMO", in *Proc. IEEE Global Commun. Conf. (GLOBECOM)*, pp. 1-5, Dec. 2025.
 3. G. Li, Y. Ma, W. Wang, J. Zhang and **H. Luo**, "The Self-Detection Method of the Puppet Attack in Biometric Fingerprinting", accepted by *IEEE Internet Things J.*, 2024. ([Link](https://doi.org/10.1109/JIOT.2024.3365714))
 4. Y. Sun, G. Li\*, **H. Luo**, Y. Xing, S. Dang and A. Hu, "Location-Invariant Radio Frequency Fingerprint for Base Station Recognition", accepted by *IEEE Wireless Commun. lett.*, 2023. ([Link](https://ieeexplore.ieee.org/document/10146013))
