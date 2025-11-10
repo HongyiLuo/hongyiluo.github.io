@@ -39,6 +39,7 @@ Educations
 
 Honors and Awards
 ------
+- *2025* Jiangsu Cyberspace Security Association Outstanding Master's Thesis Award.
 - *2024* Outstanding Master’s Graduate, Southeast University.
 - *2024* Huawei Scholarship, Southeast University.
 - *2022-2023* University Merit Graduate Student, Southeast University.
